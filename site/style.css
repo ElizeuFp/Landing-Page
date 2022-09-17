@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+body {
+    font-size: 100;
+}
+
+. cabecalho {
+    display: flex;
+    background: linear-gradient(68.15deg, rgba(0, 0, 0, 0.72) 16.62%, rgba(255, 255, 255, 0.82) 85.61%);
+}
